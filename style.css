@@ -121,6 +121,7 @@ body{
 #donatePlan h1{
     text-align: center;
     font-size: 40px;
+    text-transform: capitalize;
 }
 
 #donatePlan .reason{
@@ -156,6 +157,7 @@ body{
     text-align: center;
     margin-top: 32px;
     margin-bottom: 22px;
+    text-transform: capitalize;
 }
 
 .item p{
@@ -195,6 +197,7 @@ body{
     width: 500px;
     margin-top: 7px;
     margin-left: 60px;
+    text-transform: capitalize;
 }
 
 .text p{
@@ -259,6 +262,7 @@ body{
 .liveNews h2{
     text-align: center;
     font-size: 20px;
+    text-transform: capitalize;
 }
 
 .liveNews p{
@@ -281,6 +285,7 @@ body{
    text-align: center;
    margin-top: 50px;
    font-size: 40px;
+   text-transform: capitalize;
 }
 
 #update p{
